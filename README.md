@@ -1,6 +1,4 @@
-# DIPT-EX-2
-
-# Experiment 2: Image Acquisition Using Web Camera
+## Experiment 2: Image Acquisition Using Web Camera
 ### Developed By : HARISH KUMAR S
 ### Register Number : 212224230091
 
